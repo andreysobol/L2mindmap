@@ -15,6 +15,10 @@
 1. Only game theoretical garanties (or trust)
 2. Only one secure trustless chain
 
+&nbsp;
+&nbsp;
+&nbsp;
+
 # State channels/LN
 
 ## Pro:
@@ -30,6 +34,10 @@
 4. Unrealistic onboarding
 5. Scaling amount of tx (not amount of user)
 
+&nbsp;
+&nbsp;
+&nbsp;
+
 # Plasma
 
 ## Pro:
@@ -39,6 +47,10 @@
 ## Cons:
 
 1. Data availability is disaster
+
+&nbsp;
+&nbsp;
+&nbsp;
 
 # optimistic rollup
 
@@ -52,6 +64,10 @@
 1. Limited level of scalability
 2. Miner attack is disaster
 
+&nbsp;
+&nbsp;
+&nbsp;
+
 # (zk)rollup
 
 ## Pro:
@@ -64,6 +80,10 @@
 
 1. Limited level of scalability
 
+&nbsp;
+&nbsp;
+&nbsp;
+
 # zk Sidechains
 
 ## Pro:
@@ -75,5 +95,9 @@
 ## Cons:
 
 1. Data availability is problem. Without data fund can be freezed
+
+&nbsp;
+&nbsp;
+&nbsp;
 
 ### PS: Sharding doesn't work because "adaptive corruption"
