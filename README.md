@@ -75,3 +75,5 @@
 ## Cons:
 
 1. Data availability is problem. Without data fund can be freezed
+
+### PS: Sharding doesn't work because "adaptive corruption"
