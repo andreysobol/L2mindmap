@@ -1,5 +1,7 @@
 # L2 Mind Map
 
+![Map](map.png)
+
 # Sidechains
 
 Pro:
